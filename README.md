@@ -27,9 +27,9 @@ Based on training for 30 epochs with **Data Augmentation** (horizontal flips and
 
 | Model | Accuracy | Training Time | Parameters |
 | :--- | :--- | :--- | :--- |
-| **VGG** | ~83.77% | ~774s | 3,249,994 |
-| **ResNet** | ~83.79% | ~850s | 2,782,154 |
-| **MobileNet** | ~78.10% | ~820s | 278,730 |
+| **VGG** | ~83.77% | ~377.83s | 3,249,994 |
+| **ResNet** | ~83.79% | ~542.06s | 2,782,154 |
+| **MobileNet** | ~78.10% | ~404.36s | 278,730 |
 
 *Note: While ResNet achieved the highest accuracy, MobileNet demonstrated incredible efficiency, achieving competitive results with a fraction of the computational footprint.*
 
