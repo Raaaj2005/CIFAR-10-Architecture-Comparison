@@ -1,6 +1,6 @@
 # CIFAR-10 Architecture Comparison
 
-This repository provides a comparative study of three distinct deep learning architectures—**VGG**, **ResNet**, and **MobileNet**—implemented from scratch using TensorFlow and Keras. The project evaluates these models on the classic CIFAR-10 dataset to benchmark their accuracy, parameter efficiency, and training time.
+This repository provides a comparative study of three distinct deep learning architectures: **VGG**, **ResNet**, and **MobileNet**, implemented from scratch using TensorFlow and Keras. The project evaluates these models on the classic CIFAR-10 dataset to benchmark their accuracy, parameter efficiency, and training time.
 
 ## 🚀 Project Overview
 The goal of this project is to demonstrate the evolution and trade-offs of convolutional neural network (CNN) paradigms:
